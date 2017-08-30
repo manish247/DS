@@ -1,6 +1,6 @@
 package linkedlist;
 
-class SIngleLinkedList
+class SingleLinkedList
 {
     node head;
 
@@ -194,7 +194,7 @@ class SIngleLinkedList
 
     public static void main(String[] args)
     {
-        SIngleLinkedList LinkedList = new SIngleLinkedList();
+        SingleLinkedList LinkedList = new SingleLinkedList();
 
         int i;
 
